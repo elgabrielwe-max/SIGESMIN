@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#07131f" />
+<title>SIGESMIN | Seguridad Minera</title>
+<style>
+:root{
+  --bg:#07131f; --panel:#0d1e2d; --panel2:#10283b; --line:#1f4055;
+  --text:#eef7fb; --muted:#9eb4c3; --accent:#31d4a4; --accent2:#23a8ff;
+  --warning:#ffc857; --danger:#ff6b6b; --ok:#50df89; --shadow:0 16px 44px rgba(0,0,0,.28);
+}
+*{box-sizing:border-box} html{scroll-behavior:smooth}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;background:radial-gradient(circle at top right,#123c55 0,#07131f 42%,#050d15 100%);color:var(--text);min-height:100vh}
+button,input,select,textarea{font:inherit}
+button{cursor:pointer}
+.hidden{display:none!important}
+.login{min-height:100vh;display:grid;place-items:center;padding:24px}
+.login-card{width:min(440px,100%);background:rgba(13,30,45,.86);border:1px solid rgba(49,212,164,.25);box-shadow:var(--shadow);backdrop-filter:blur(18px);border-radius:28px;padding:28px}
+.brand{display:flex;align-items:center;gap:14px}
+.logo{width:54px;height:54px;border-radius:18px;background:linear-gradient(135deg,var(--accent),var(--accent2));display:grid;place-items:center;color:#03131a;font-weight:900;font-size:22px;box-shadow:0 12px 30px rgba(35,168,255,.25)}
+.brand h1{margin:0;font-size:26px;letter-spacing:.5px}.brand p{margin:4px 0 0;color:var(--muted);font-size:13px}
+.hero{margin:26px 0}.hero h2{font-size:31px;line-height:1.1;margin:0 0 10px}.hero p{color:var(--muted);line-height:1.55;margin:0}
+.field{margin:14px 0}.field label{display:block;font-size:13px;color:#bdd0dc;margin-bottom:7px}
+.field input,.field select,.field textarea{width:100%;border:1px solid var(--line);background:#081722;color:var(--text);border-radius:14px;padding:13px 14px;outline:none}
+.field textarea{min-height:92px;resize:vertical}.field input:focus,.field select:focus,.field textarea:focus{border-color:var(--accent)}
+.primary{width:100%;border:0;border-radius:14px;padding:14px 16px;background:linear-gradient(135deg,var(--accent),#28b9e8);font-weight:800;color:#03151c;margin-top:8px}
+.demo{margin-top:14px;color:var(--muted);font-size:12px;text-align:center}
+.app{display:grid;grid-template-columns:260px 1fr;min-height:100vh}
+.sidebar{background:rgba(6,17,27,.92);border-right:1px solid var(--line);padding:20px 14px;position:sticky;top:0;height:100vh}
+.sidebar .brand{padding:4px 8px 18px}.sidebar .logo{width:44px;height:44px;border-radius:14px;font-size:18px}
+.nav{display:grid;gap:6px}.nav button{border:0;background:transparent;color:#b9cbd6;text-align:left;padding:12px 13px;border-radius:12px;display:flex;align-items:center;gap:10px}
+.nav button.active,.nav button:hover{background:linear-gradient(90deg,rgba(49,212,164,.16),rgba(35,168,255,.08));color:white}
+.sidebar-bottom{position:absolute;left:14px;right:14px;bottom:18px}.userbox{background:#0d2130;border:1px solid var(--line);border-radius:16px;padding:12px}.userbox strong{display:block}.userbox small{color:var(--muted)}
+.main{padding:22px 26px 42px;min-width:0}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:22px}
+.topbar h2{margin:0;font-size:26px}.topbar p{margin:4px 0 0;color:var(--muted)}
+.actions{display:flex;gap:8px}.ghost{border:1px solid var(--line);background:#0b1d2b;color:var(--text);padding:10px 13px;border-radius:12px}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.card{background:linear-gradient(160deg,rgba(16,40,59,.95),rgba(10,28,42,.95));border:1px solid var(--line);border-radius:20px;padding:18px;box-shadow:0 8px 24px rgba(0,0,0,.14)}
+.kpi .label{color:var(--muted);font-size:13px}.kpi .value{font-size:30px;font-weight:850;margin:10px 0 6px}.trend{font-size:12px;color:var(--ok)}
+.grid2{display:grid;grid-template-columns:1.35fr .65fr;gap:14px;margin-top:14px}
+.chart{height:220px;display:flex;align-items:end;gap:14px;padding:18px 8px 4px}
+.bar{flex:1;background:linear-gradient(180deg,var(--accent2),var(--accent));border-radius:10px 10px 4px 4px;min-height:25px;position:relative}
+.bar span{position:absolute;bottom:-24px;left:50%;transform:translateX(-50%);font-size:11px;color:var(--muted)}
+.list{display:grid;gap:10px;margin-top:12px}.item{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:12px;border-radius:14px;background:#0a1a27;border:1px solid #17384a}
+.item small{color:var(--muted)}.pill{font-size:11px;padding:5px 9px;border-radius:999px}.green{background:rgba(80,223,137,.13);color:#7cf0a8}.yellow{background:rgba(255,200,87,.14);color:#ffd983}.red{background:rgba(255,107,107,.13);color:#ff9a9a}.blue{background:rgba(35,168,255,.13);color:#7dcaff}
+.section{display:none}.section.active{display:block}
+.section-head{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:14px}
+.section-head h3{margin:0;font-size:22px}.section-head p{margin:5px 0 0;color:var(--muted)}
+.form-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:0 14px}.full{grid-column:1/-1}
+.checks{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.check{display:flex;gap:9px;align-items:flex-start;background:#0a1a27;border:1px solid #17384a;border-radius:13px;padding:11px}.check input{width:auto;margin-top:2px}
+.form-actions{display:flex;gap:10px;justify-content:flex-end;margin-top:18px}.form-actions button{width:auto}
+.table-wrap{overflow:auto;border:1px solid var(--line);border-radius:18px}.table{width:100%;border-collapse:collapse;min-width:720px}.table th,.table td{padding:13px 14px;text-align:left;border-bottom:1px solid #17384a;font-size:13px}.table th{color:#9fc0d1;background:#0b1c29}.table td{color:#dce8ee}
+.toast{position:fixed;right:20px;bottom:20px;background:#10283b;border:1px solid var(--accent);padding:13px 16px;border-radius:14px;box-shadow:var(--shadow);z-index:10}
+.mobilebar{display:none}
+@media(max-width:900px){
+ .app{display:block}.sidebar{display:none}.main{padding:16px 14px 90px}.kpis{grid-template-columns:repeat(2,1fr)}.grid2{grid-template-columns:1fr}.topbar{align-items:flex-start}.topbar .actions{display:none}
+ .mobilebar{display:flex;position:fixed;z-index:8;bottom:0;left:0;right:0;background:rgba(5,15,24,.96);border-top:1px solid var(--line);padding:8px 6px calc(8px + env(safe-area-inset-bottom));overflow-x:auto}
+ .mobilebar button{min-width:72px;border:0;background:transparent;color:#9db1be;border-radius:10px;padding:8px 6px;font-size:11px}.mobilebar button.active{color:white;background:#10283b}
+ .form-grid{grid-template-columns:1fr}.full{grid-column:auto}.checks{grid-template-columns:1fr}
+}
+@media(max-width:480px){.kpis{grid-template-columns:1fr 1fr}.kpi .value{font-size:25px}.card{padding:15px}.topbar h2{font-size:23px}}
+@media print{.sidebar,.mobilebar,.topbar,.section-head button,.form-actions{display:none!important}.app{display:block}.main{padding:0}.section{display:none!important}.section.active{display:block!important}.card{box-shadow:none;background:white;color:#111;border:1px solid #ccc}.field input,.field select,.field textarea{color:#111;background:white;border:1px solid #bbb}.field label,.section-head p{color:#333}}
+</style>
+</head>
+<body>
+<div id="login" class="login">
+  <div class="login-card">
+    <div class="brand"><div class="logo">SM</div><div><h1>SIGESMIN</h1><p>Sistema Integral de Gestión de Seguridad Minera</p></div></div>
+    <div class="hero"><h2>Seguridad operacional, sin papel.</h2><p>Digitaliza AST, IPERC, PETAR, PETS, inspecciones y reportes desde cualquier dispositivo.</p></div>
+    <div class="field"><label>Usuario</label><input id="user" value="supervisor.ssoma" /></div>
+    <div class="field"><label>Contraseña</label><input type="password" value="123456" /></div>
+    <button class="primary" onclick="enterApp()">Ingresar al sistema</button>
+    <div class="demo">Prototipo demostrativo - acceso libre</div>
+  </div>
+</div>
+
+<div id="app" class="app hidden">
+  <aside class="sidebar">
+    <div class="brand"><div class="logo">SM</div><div><h1 style="font-size:20px">SIGESMIN</h1><p>Gestión SSOMA</p></div></div>
+    <nav class="nav" id="nav">
+      <button class="active" data-target="dashboard">◈ Dashboard</button>
+      <button data-target="ast">✓ Registrar AST</button>
+      <button data-target="iperc">⚠ Registrar IPERC</button>
+      <button data-target="petar">▣ Registrar PETAR</button>
+      <button data-target="pets">📘 Biblioteca PETS</button>
+      <button data-target="reportes">▤ Reportes</button>
+      <button data-target="usuarios">♙ Usuarios</button>
+    </nav>
+    <div class="sidebar-bottom"><div class="userbox"><strong>Gabriel García</strong><small>Administrador / SSOMA</small></div></div>
+  </aside>
+
+  <main class="main">
+    <div class="topbar">
+      <div><h2 id="pageTitle">Dashboard de Seguridad</h2><p id="pageSubtitle">Resumen operacional de la jornada</p></div>
+      <div class="actions"><button class="ghost" onclick="window.print()">Imprimir</button><button class="ghost" onclick="logout()">Salir</button></div>
+    </div>
+
+    <section id="dashboard" class="section active">
+      <div class="kpis">
+        <div class="card kpi"><div class="label">AST registrados hoy</div><div class="value">18</div><div class="trend">↑ 12% vs. ayer</div></div>
+        <div class="card kpi"><div class="label">PETAR activos</div><div class="value">6</div><div class="trend">4 en campo</div></div>
+        <div class="card kpi"><div class="label">IPERC completados</div><div class="value">14</div><div class="trend">93% de cumplimiento</div></div>
+        <div class="card kpi"><div class="label">Acciones vencidas</div><div class="value">2</div><div class="trend" style="color:#ff9a9a">Requieren atención</div></div>
+      </div>
+      <div class="grid2">
+        <div class="card"><strong>Documentos generados por día</strong><div class="chart">
+          <div class="bar" style="height:42%"><span>Lun</span></div><div class="bar" style="height:64%"><span>Mar</span></div><div class="bar" style="height:51%"><span>Mié</span></div><div class="bar" style="height:78%"><span>Jue</span></div><div class="bar" style="height:92%"><span>Vie</span></div><div class="bar" style="height:58%"><span>Sáb</span></div>
+        </div></div>
+        <div class="card"><strong>Alertas operativas</strong><div class="list">
+          <div class="item"><div><b>PETAR-024</b><br><small>Trabajo en altura</small></div><span class="pill yellow">Por vencer</span></div>
+          <div class="item"><div><b>Acción AC-018</b><br><small>Orden y limpieza</small></div><span class="pill red">Vencida</span></div>
+          <div class="item"><div><b>IPERC-116</b><br><small>Planta concentradora</small></div><span class="pill green">Aprobado</span></div>
+        </div></div>
+      </div>
+      <div class="card" style="margin-top:14px"><strong>Actividad reciente</strong><div class="table-wrap" style="margin-top:12px"><table class="table">
+        <thead><tr><th>Código</th><th>Documento</th><th>Área</th><th>Responsable</th><th>Estado</th></tr></thead>
+        <tbody><tr><td>AST-2026-184</td><td>AST</td><td>Mantenimiento</td><td>C. Ramos</td><td><span class="pill green">Firmado</span></td></tr>
+        <tr><td>IPERC-2026-116</td><td>IPERC</td><td>Planta</td><td>M. Quispe</td><td><span class="pill green">Aprobado</span></td></tr>
+        <tr><td>PETAR-2026-024</td><td>PETAR</td><td>Mina</td><td>J. Flores</td><td><span class="pill yellow">Activo</span></td></tr></tbody>
+      </table></div></div>
+    </section>
+
+    <section id="ast" class="section">
+      <div class="section-head"><div><h3>Nuevo AST</h3><p>Análisis Seguro del Trabajo</p></div><button class="ghost" onclick="window.print()">Generar PDF</button></div>
+      <div class="card">
+        <div class="form-grid">
+          <div class="field"><label>Fecha</label><input type="date" id="astDate"></div>
+          <div class="field"><label>Turno</label><select><option>Día</option><option>Noche</option></select></div>
+          <div class="field"><label>Área</label><select><option>Mina</option><option>Planta concentradora</option><option>Mantenimiento</option><option>Almacén</option></select></div>
+          <div class="field"><label>Supervisor responsable</label><input value="Supervisor SSOMA"></div>
+          <div class="field full"><label>Actividad</label><input placeholder="Ej.: Evacuación de residuos sólidos"></div>
+          <div class="field full"><label>Secuencia del trabajo</label><textarea placeholder="1. Inspeccionar el área...&#10;2. Delimitar y señalizar...&#10;3. Ejecutar la actividad..."></textarea></div>
+          <div class="field full"><label>Peligros identificados</label><div class="checks">
+            <label class="check"><input type="checkbox"> Tránsito de equipos móviles</label><label class="check"><input type="checkbox"> Roca suelta</label>
+            <label class="check"><input type="checkbox"> Polvo y partículas</label><label class="check"><input type="checkbox"> Ruido</label>
+            <label class="check"><input type="checkbox"> Sustancias químicas</label><label class="check"><input type="checkbox"> Condiciones climáticas</label>
+          </div></div>
+          <div class="field full"><label>Controles</label><textarea placeholder="Señalización, delimitación, EPP, comunicación radial, inspección previa..."></textarea></div>
+        </div>
+        <div class="form-actions"><button class="ghost">Guardar borrador</button><button class="primary" onclick="saveDoc('AST')" style="width:auto">Firmar y registrar</button></div>
+      </div>
+    </section>
+
+    <section id="iperc" class="section">
+      <div class="section-head"><div><h3>Nuevo IPERC continuo</h3><p>Identificación de peligros, evaluación de riesgos y controles</p></div><button class="ghost" onclick="window.print()">Generar PDF</button></div>
+      <div class="card">
+        <div class="form-grid">
+          <div class="field"><label>Actividad</label><input value="Evacuación de residuos sólidos"></div>
+          <div class="field"><label>Ubicación</label><input placeholder="Labor / nivel / área"></div>
+          <div class="field"><label>Peligro</label><select><option>Tránsito de equipos</option><option>Gas</option><option>Roca suelta</option><option>Floculante</option><option>Ruido</option><option>Polvo</option></select></div>
+          <div class="field"><label>Riesgo</label><input placeholder="Atropellamiento / intoxicación / caída..."></div>
+          <div class="field"><label>Probabilidad</label><select id="prob" onchange="riskCalc()"><option value="1">1 - Raro</option><option value="2">2 - Poco probable</option><option value="3" selected>3 - Posible</option><option value="4">4 - Probable</option><option value="5">5 - Casi seguro</option></select></div>
+          <div class="field"><label>Consecuencia</label><select id="cons" onchange="riskCalc()"><option value="1">1 - Menor</option><option value="2">2 - Moderada</option><option value="3" selected>3 - Seria</option><option value="4">4 - Mayor</option><option value="5">5 - Catastrófica</option></select></div>
+          <div class="field"><label>Nivel de riesgo automático</label><input id="risk" value="9 - MEDIO" readonly></div>
+          <div class="field"><label>Responsable del control</label><input placeholder="Nombre y cargo"></div>
+          <div class="field full"><label>Controles existentes y adicionales</label><textarea placeholder="Eliminar, sustituir, controles de ingeniería, administrativos y EPP..."></textarea></div>
+        </div>
+        <div class="form-actions"><button class="ghost">Agregar peligro</button><button class="primary" onclick="saveDoc('IPERC')" style="width:auto">Registrar IPERC</button></div>
+      </div>
+    </section>
+
+    <section id="petar" class="section">
+      <div class="section-head"><div><h3>Nuevo PETAR</h3><p>Permiso Escrito para Trabajo de Alto Riesgo</p></div><button class="ghost" onclick="window.print()">Generar PDF</button></div>
+      <div class="card">
+        <div class="form-grid">
+          <div class="field"><label>Tipo de trabajo</label><select><option>Trabajo en altura</option><option>Espacio confinado</option><option>Trabajo en caliente</option><option>Excavación</option><option>Izaje crítico</option><option>Trabajo eléctrico</option></select></div>
+          <div class="field"><label>Vigencia</label><input type="datetime-local"></div>
+          <div class="field"><label>Área</label><input placeholder="Área de ejecución"></div>
+          <div class="field"><label>Supervisor</label><input placeholder="Nombre del supervisor"></div>
+          <div class="field full"><label>Verificaciones obligatorias</label><div class="checks">
+            <label class="check"><input type="checkbox"> Personal autorizado y capacitado</label><label class="check"><input type="checkbox"> EPP específico inspeccionado</label>
+            <label class="check"><input type="checkbox"> Área delimitada y señalizada</label><label class="check"><input type="checkbox"> Equipos y herramientas inspeccionados</label>
+            <label class="check"><input type="checkbox"> Plan de emergencia comunicado</label><label class="check"><input type="checkbox"> Condiciones atmosféricas verificadas</label>
+          </div></div>
+          <div class="field full"><label>Observaciones y restricciones</label><textarea></textarea></div>
+        </div>
+        <div class="form-actions"><button class="ghost">Guardar borrador</button><button class="primary" onclick="saveDoc('PETAR')" style="width:auto">Autorizar PETAR</button></div>
+      </div>
+    </section>
+
+    <section id="pets" class="section">
+      <div class="section-head"><div><h3>Biblioteca PETS</h3><p>Procedimientos escritos de trabajo seguro vigentes</p></div><button class="ghost" onclick="toast('PETS cargado correctamente')">+ Cargar PETS</button></div>
+      <div class="card"><div class="field"><input placeholder="Buscar por actividad, código o área..."></div><div class="list">
+        <div class="item"><div><b>PETS-MAN-014 · Cambio de bomba</b><br><small>Mantenimiento · Versión 04</small></div><span class="pill green">Vigente</span></div>
+        <div class="item"><div><b>PETS-MIN-007 · Desatado de rocas</b><br><small>Mina · Versión 06</small></div><span class="pill green">Vigente</span></div>
+        <div class="item"><div><b>PETS-PLA-021 · Manejo de floculante</b><br><small>Planta · Versión 02</small></div><span class="pill yellow">Por revisar</span></div>
+      </div></div>
+    </section>
+
+    <section id="reportes" class="section">
+      <div class="section-head"><div><h3>Reportes y trazabilidad</h3><p>Consulta, filtra y exporta la documentación</p></div><button class="ghost" onclick="toast('Reporte exportado')">Exportar Excel</button></div>
+      <div class="card"><div class="form-grid">
+        <div class="field"><label>Desde</label><input type="date"></div><div class="field"><label>Hasta</label><input type="date"></div>
+        <div class="field"><label>Tipo de documento</label><select><option>Todos</option><option>AST</option><option>IPERC</option><option>PETAR</option></select></div>
+        <div class="field"><label>Estado</label><select><option>Todos</option><option>Aprobado</option><option>Pendiente</option><option>Vencido</option></select></div>
+      </div><div class="table-wrap"><table class="table"><thead><tr><th>Código</th><th>Fecha</th><th>Tipo</th><th>Actividad</th><th>Área</th><th>Estado</th></tr></thead>
+      <tbody id="reportRows"><tr><td>AST-2026-184</td><td>25/07/2026</td><td>AST</td><td>Mantenimiento de bomba</td><td>Planta</td><td><span class="pill green">Aprobado</span></td></tr>
+      <tr><td>PETAR-2026-024</td><td>25/07/2026</td><td>PETAR</td><td>Trabajo en altura</td><td>Mina</td><td><span class="pill yellow">Activo</span></td></tr></tbody></table></div></div>
+    </section>
+
+    <section id="usuarios" class="section">
+      <div class="section-head"><div><h3>Usuarios y permisos</h3><p>Control de acceso por rol y área</p></div><button class="ghost" onclick="toast('Formulario de usuario habilitado')">+ Nuevo usuario</button></div>
+      <div class="card"><div class="table-wrap"><table class="table"><thead><tr><th>Usuario</th><th>Rol</th><th>Área</th><th>Estado</th></tr></thead><tbody>
+        <tr><td>Gabriel García</td><td>Administrador</td><td>SSOMA</td><td><span class="pill green">Activo</span></td></tr>
+        <tr><td>Carlos Ramos</td><td>Supervisor</td><td>Mantenimiento</td><td><span class="pill green">Activo</span></td></tr>
+        <tr><td>María Quispe</td><td>Inspector</td><td>Planta</td><td><span class="pill green">Activo</span></td></tr>
+      </tbody></table></div></div>
+    </section>
+  </main>
+
+  <nav class="mobilebar" id="mobileNav">
+    <button class="active" data-target="dashboard">Inicio</button><button data-target="ast">AST</button><button data-target="iperc">IPERC</button><button data-target="petar">PETAR</button><button data-target="pets">PETS</button><button data-target="reportes">Reportes</button>
+  </nav>
+</div>
+<div id="toast" class="toast hidden"></div>
+<script>
+const titles={
+ dashboard:["Dashboard de Seguridad","Resumen operacional de la jornada"],
+ ast:["Registrar AST","Análisis Seguro del Trabajo"],
+ iperc:["Registrar IPERC","Evaluación dinámica de riesgos y controles"],
+ petar:["Registrar PETAR","Autorización de trabajos de alto riesgo"],
+ pets:["Biblioteca PETS","Procedimientos vigentes y controlados"],
+ reportes:["Reportes","Trazabilidad documental y exportación"],
+ usuarios:["Usuarios","Roles, permisos y accesos"]
+};
+function enterApp(){document.getElementById('login').classList.add('hidden');document.getElementById('app').classList.remove('hidden');localStorage.setItem('sigesmin_session','1')}
+function logout(){localStorage.removeItem('sigesmin_session');location.reload()}
+function go(target){
+ document.querySelectorAll('.section').forEach(x=>x.classList.toggle('active',x.id===target));
+ document.querySelectorAll('[data-target]').forEach(x=>x.classList.toggle('active',x.dataset.target===target));
+ document.getElementById('pageTitle').textContent=titles[target][0];document.getElementById('pageSubtitle').textContent=titles[target][1];window.scrollTo(0,0)
+}
+document.querySelectorAll('[data-target]').forEach(b=>b.addEventListener('click',()=>go(b.dataset.target)));
+function toast(msg){const t=document.getElementById('toast');t.textContent=msg;t.classList.remove('hidden');setTimeout(()=>t.classList.add('hidden'),2500)}
+function saveDoc(type){
+ const id=type+'-'+new Date().getFullYear()+'-'+Math.floor(100+Math.random()*900);
+ const docs=JSON.parse(localStorage.getItem('sigesmin_docs')||'[]');docs.push({id,type,date:new Date().toLocaleDateString('es-PE')});localStorage.setItem('sigesmin_docs',JSON.stringify(docs));
+ toast(type+' registrado: '+id)
+}
+function riskCalc(){
+ const v=Number(document.getElementById('prob').value)*Number(document.getElementById('cons').value);
+ let label=v<=4?'BAJO':v<=9?'MEDIO':v<=16?'ALTO':'CRÍTICO';
+ document.getElementById('risk').value=v+' - '+label
+}
+document.getElementById('astDate').valueAsDate=new Date();
+if(localStorage.getItem('sigesmin_session')==='1')enterApp();
+</script>
+</body>
+</html>
