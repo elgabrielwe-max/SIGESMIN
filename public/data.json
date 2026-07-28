@@ -1,0 +1,5672 @@
+[
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MINA CANDELARIA",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "PLANTA MAHUARA",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "ADMINISTRACIÓN",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MANTENIMIENTO",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DESARROLLOS MINEROS",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CAMPAMENTO",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "COMEDOR",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "MEDIO AMBIENTE",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "GEOLOGÍA",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "LOGÍSTICA",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "RENTACAR",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "IRENE",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "IRENE",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "IRENE",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "IRENE",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "IRENE",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "IRENE",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "IRENE",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "IRENE",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "IRENE",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "IRENE",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "IRENE",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "IRENE",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "IRENE",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "IRENE",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "OBRAS CIVILES",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "DIAMANTINA",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "ENERO",
+    "mesNumero": 1,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "Notificación, investigación  y reporte de incidentes , incidentes peligrosos y accidentes de trabajo.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "FEBRERO",
+    "mesNumero": 2,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Trabajos en Altura",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "MARZO",
+    "mesNumero": 3,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Gestión de la Seguridad y Salud Ocupacional basado en el Reglamento de Seguridad y Salud Ocupacional, Política de Seguridad, Salud Ocupacional y Medio Ambiente.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Mapa de riesgos",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "ABRIL",
+    "mesNumero": 4,
+    "tema": "Estándares y procedimiento escrito de trabajo seguro por actividades",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Significado y uso de código de señales y colores.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "MAYO",
+    "mesNumero": 5,
+    "tema": "Auditoría, fiscalización e Inspecciones de Seguridad",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Higiene Ocupacional (Agentes Físicos, Químicos y Biológicos) Disposición de residuos sólidos. Control de Sustancias peligrosas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "JUNIO",
+    "mesNumero": 6,
+    "tema": "Manejo defensivo y/o transporte de personal",
+    "guardias": {
+      "A": "F",
+      "B": "F",
+      "C": "F"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "C",
+      "B": "C",
+      "C": "C"
+    },
+    "cumplidas": 3,
+    "porcentaje": 100,
+    "estado": "C"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Comité de Seguridad y Salud Ocupacional. Reglamento Interno de Seguridad y Salud Ocupaciona. Programa Anual de Seguridad y Salud Ocupacional.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "JULIO",
+    "mesNumero": 7,
+    "tema": "Seguridad en la Oficina y Ergonomía.",
+    "guardias": {
+      "A": "EP",
+      "B": "EP",
+      "C": "EP"
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "EP"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Psicosociales",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Riesgos Eléctricos",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "AGOSTO",
+    "mesNumero": 8,
+    "tema": "Prevención de accidente por desprendimiento de rocas",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Prevención de accidente por gaseamiento",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "SETIEMBRE",
+    "mesNumero": 9,
+    "tema": "Uso de Equipo de Protección Personal (EPP)",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "IPERC",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "OCTUBRE",
+    "mesNumero": 10,
+    "tema": "Prevención y Protección  Contra Incendio",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Liderazgo y motivación: Seguridad basada en el Comportamiento.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "NOVIEMBRE",
+    "mesNumero": 11,
+    "tema": "Primeros Auxilios",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  },
+  {
+    "area": "CONGEMIN",
+    "mes": "DICIEMBRE",
+    "mesNumero": 12,
+    "tema": "Respuesta a Emergencias por Áreas específicas.",
+    "guardias": {
+      "A": "",
+      "B": "",
+      "C": ""
+    },
+    "cumplidas": 0,
+    "porcentaje": 0,
+    "estado": "F"
+  }
+]
